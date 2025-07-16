@@ -11,7 +11,7 @@ Ever wondered if you could monetize your skills while sitting comfortably at hom
 
 GigSetu is built using the MERN stack (MongoDB, Express.js, React, Node.js), which ensures a robust and scalable platform. Leveraging modern technologies, GigSetu is designed to provide an optimized, efficient, and user-friendly experience for both freelancers and clients.
 
-# [🎉Check out Gigverse in action now: GigVerse](https://gig-verse.vercel.app)
+# [🎉Check out GigSetu in action now: Gig](https://gig-verse.vercel.app)
 
 
 

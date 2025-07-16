@@ -1,29 +1,17 @@
-# GigVerse - Your Ultimate Freelance Marketplace Platform
+# GigSetu - Your Ultimate Freelance Marketplace Platform
 
 Ever wondered if you could monetize your skills while sitting comfortably at home? Or thought about hiring a freelancer to handle your small tasks? We've got the perfect solution for you. 
 
 
-<p align="center"><strong><font size="+5">Presenting Gigverse!</font></strong></p>
+<p align="center"><strong><font size="+5">Presenting GigSetu!</font></strong></p>
 
-**GigVerse** is a cutting-edge freelance marketplace platform designed to connect talented freelancers with clients who need high-quality services. Whether you're a freelancer looking to showcase your skills and earn from the comfort of your home or a client seeking skilled professionals to complete your projects, GigVerse has you covered.
+**GigSetu** is a cutting-edge freelance marketplace platform designed to connect talented freelancers with clients who need high-quality services. Whether you're a freelancer looking to showcase your skills and earn from the comfort of your home or a client seeking skilled professionals to complete your projects, GigVerse has you covered.
 
-### About GigVerse
+### About GigSetu
 
-GigVerse is built using the MERN stack (MongoDB, Express.js, React, Node.js), which ensures a robust and scalable platform. Leveraging modern technologies, GigVerse is designed to provide an optimized, efficient, and user-friendly experience for both freelancers and clients.
+GigSetu is built using the MERN stack (MongoDB, Express.js, React, Node.js), which ensures a robust and scalable platform. Leveraging modern technologies, GigSetu is designed to provide an optimized, efficient, and user-friendly experience for both freelancers and clients.
 
 # [🎉Check out Gigverse in action now: GigVerse](https://gig-verse.vercel.app)
-
-
-### Screenshots
-
-<p align="center">
-    <img src="https://github.com/user-attachments/assets/9c143cdb-bffa-4790-8e29-6874aabcb2e0" width="auto" height="500" style="display: inline-block;" />
-    <img src="https://github.com/user-attachments/assets/04f0fd6a-8d5e-4dfc-acd6-5abf542d1e62" width="auto" height="500" style="display: inline-block;" />
-    <img src="https://github.com/user-attachments/assets/b2f7a4bd-c1eb-4446-98c8-79c7aa76b35b" width="auto" height="500" style="display: inline-block;" />
-    <img src="https://github.com/user-attachments/assets/075bf7b1-4520-4098-b89c-12b7505c79ac" width="auto" height="280" style="display: inline-block;" />
-    <img src="https://github.com/user-attachments/assets/95a119d7-4a88-4e35-a230-d3b88c34f90b" width="auto" height="280" style="display: inline-block;" />
-    <img src="https://github.com/user-attachments/assets/05775c2f-1c0a-498e-b25d-48f117a9a5c4" width="auto" height="280" style="display: inline-block;" />
-</p>
 
 
 
@@ -42,7 +30,7 @@ GigVerse is built using the MERN stack (MongoDB, Express.js, React, Node.js), wh
 - **Messaging**: Facilitates effective communication between buyers and sellers, allowing them to discuss project details, clarify requirements, and stay updated on the progress of their tasks.
 
 
-## Why Choose Gigverse?
+## Why Choose GigSetu?
 
 ### For Freelancers:
 - Showcase your skills and get noticed by potential clients.
@@ -66,7 +54,7 @@ GigVerse is built using the MERN stack (MongoDB, Express.js, React, Node.js), wh
 
 ## Getting Started
 
-To get started with Gigverse locally, follow these steps:
+To get started with Gigsetu locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash

@@ -9,7 +9,7 @@ const Featured = () => {
   
   return (
     <div className="">
-      <div className="md:bg-transparent relative bottom-[5rem] md:bottom-[0rem] bg-[#1A1B1D] text-white py-[20vw] px-[10vw] md:py-[10vw] md:px-[8vw] mx-auto">
+      <div className="relative bottom-[5rem] md:bottom-[0rem] bg-[#1d1b1a] md:bg-blue-900/5 text-white py-[20vw] px-[10vw] md:py-[10vw] md:px-[8vw] mx-auto">
         <div className="relative items-center space-y-10">
           <h1 className="text-[6vw] md:text-[3.7vw] text-center md:text-left font-medium">
             Find the right{" "}
@@ -24,7 +24,10 @@ const Featured = () => {
               value={search}
               onChange={(e) => setSearch(e.target.value)}
             />
-            <button className="bg- bg-blue-900 px-6 rounded-r-md" onClick={()=>navigate(`/gigs?search=${search}`)}>
+            <button
+              className="bg- bg-blue-900 px-6 rounded-r-md"
+              onClick={() => navigate(`/gigs?search=${search}`)}
+            >
               <FaSearch />
             </button>
           </div>

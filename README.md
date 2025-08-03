@@ -11,7 +11,7 @@ GigSetu is an innovative freelance marketplace platform that seamlessly connects
 
 GigSetu is built using the MERN stack (MongoDB, Express.js, React, Node.js), which ensures a robust and scalable platform. Leveraging modern technologies, GigSetu is designed to provide an optimized, efficient, and user-friendly experience for both freelancers and clients.
 
-# [🎉Check out GigSetu in action now: Gig](https://gig-verse.vercel.app)
+# [🎉Check out GigSetu in action now: Gig](https://gig-setu.vercel.app/)
 
 
 
@@ -60,7 +60,7 @@ To get started with Gigsetu locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/KaranKumar-97/GigVerse.git
+   git clone https://github.com/Birendra23/GigSetu
 
 2. Navigate to the project directory:
    ```bash 

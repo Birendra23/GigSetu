@@ -26,6 +26,7 @@ const allowedOrigins = [
   "http://localhost:5173",
   "https://gig-verse.vercel.app",
   "https://gig-setu-9dne69zxt-birendra-pratap-singhs-projects.vercel.app",
+  "https://gig-setu.vercel.app",
 
 ];
 
